@@ -1,0 +1,11 @@
+framework module iOSFrameWork {
+  umbrella header "iOSFrameWork.h"
+  export *
+
+  module * { export * }
+}
+
+module iOSFrameWork.Swift {
+  header "iOSFrameWork-Swift.h"
+  requires objc
+}

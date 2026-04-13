@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ar Kindergarten App</string>
+    <string name="setting_image">Set Avatar</string>
+    <string name="policies"><![CDATA[By creating an account, you agree to our Terms & Conditions and you acknowledge that you have read our Privacy Policy.]]></string>
+</resources>
